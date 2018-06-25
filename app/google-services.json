@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482195338215",
+    "firebase_url": "https://denunciacd-c3f58.firebaseio.com",
+    "project_id": "denunciacd-c3f58",
+    "storage_bucket": "denunciacd-c3f58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482195338215:android:ddfe26f4b7394f23",
+        "android_client_info": {
+          "package_name": "app.lk.denunciacd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482195338215-bvfvrojv5lbj7qcoa8tq5on3hbo65v51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.lk.denunciacd",
+            "certificate_hash": "30045174eeba303599ca3ab25b1318460c918e5d"
+          }
+        },
+        {
+          "client_id": "482195338215-u1qokchf7edjf3sp49h987cvt6lmsgkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClm4Kt-sR1KqjxuMV4X6cfDy1MijMIIFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482195338215-u1qokchf7edjf3sp49h987cvt6lmsgkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

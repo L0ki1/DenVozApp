@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DenunciaCD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="info_misreportes">Aqui podra ver el estado de sus reportes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_menu_deslizante">MenuDeslizante</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_reportar">Reportes</string>
+    <string name="titulo_nv_principal">Principal</string>
+    <string name="titulo_nv_reportar">Directorio</string>
+    <string name="titulo_nv_misreportes">Mis reportes</string>
+    <string name="accion_ajustes">Ajustes</string>
+    <string name="titulo_nav_principal">Principal</string>
+    <string name="titulo_navsub_usuario">Usuario</string>
+    <string name="facebook_app_id">1779298208795216</string>
+    <string name="title_activity_reportar_ubi">Reportar_ubi</string>
+
+</resources>

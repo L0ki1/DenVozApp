@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nv_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/titulo_nv_principal" />
+
+    <item
+        android:id="@+id/nv_reportar"
+        android:icon="@drawable/ic_reportar"
+        android:title="@string/titulo_nv_reportar" />
+
+    <item
+        android:id="@+id/nv_misreportes"
+        android:icon="@drawable/ic_misreportes"
+        android:title="@string/titulo_nv_misreportes" />
+
+</menu>
